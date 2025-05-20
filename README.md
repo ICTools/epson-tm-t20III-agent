@@ -1,1 +1,1 @@
-# epson-tm-t20III-agent
+# Epson TM-T20III Print Agent
